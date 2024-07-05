@@ -84,8 +84,8 @@
       <div class="interest">
         <h3 class="title">Interest</h3>
        <ul class="interest_list description">
-<li>MUSIC>/li>
-<li>DANCE>/li>
+<li>MUSIC</li>
+<li>DANCE</li>
 </ul>
     </div>
     <hr>
@@ -109,7 +109,7 @@
         <div class="social_items">
           <a href="#" target="_b" class="social_item">
             <i data-feather="github"></i>
-            <span>/shaifarfan</span>
+            <span>/Veda18244</span>
           </a>
          
           <a href="#" target="_blank" class="social_item">
